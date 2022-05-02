@@ -15,24 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\anass\source\repos\CoffeeShopRegistration_Lab\CoffeeShopRegistration_Lab
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customers/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customers/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customers/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customers/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customers/Update.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFVwZGF0ZS5jc2h0bWw=
+[C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Customer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/anass/source/repos/CoffeeShopRegistration_Lab/CoffeeShopRegistration_Lab/Views/Home/Index.cshtml]
